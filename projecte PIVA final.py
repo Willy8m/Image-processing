@@ -179,24 +179,12 @@ for unencrypted_share in range(0, n):
     
     text = '#' + str(unencrypted_share + 1)
     
-# =============================================================================
-#     text = '(a)'
-#     
-#     if unencrypted_share == 1:
-#         text = '(b)'
-#     elif unencrypted_share == 2:
-#         text = '(c)'
-#     elif unencrypted_share == 3:
-#         text = '(d)'
-# =============================================================================
-    
     plt.subplot(subplot_iterator, title = text)
     plt.imshow(basic_matrices[:,:,:,unencrypted_share])
     plt.axis('off')
 
 
 plt.show()
-
 
 #%%
 
