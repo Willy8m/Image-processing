@@ -6,4 +6,4 @@ A k out of n scheme represents a big leap forward in Visual Cryptography, provid
 
 In this paper we explore Shakar and Swaran's (k,n) technique. Structural and security flaws of the proposed methodology are discussed. In addition, an alternate hypothetical method using Shamir's 1979 paper is discussed.
 
-In the "Papers" directory you will find both Shakar's paper and our analysis report.
+In the "Papers" directory you will find both Shakar's paper and our analysis report. In the main page you can find both the code used to encrypt and decrypt the shares, and the code to create your nth-order Shamir's polynomial. 
