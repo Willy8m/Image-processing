@@ -1,6 +1,6 @@
 # Analysis of the paper: A new k out of n secret image sharing scheme in visual cryptography
 
-> This is the final project of the course "Image Processing and Artificial Vision" from the Physics degree imparted at UB. In the code directory, you will find both the code to demonstrate the flaws of the method, and the code to create an nth-order Shamir polynomial. In the "Papers" directory you will find both Shakar's paper and our analysis report. 
+> This is the final project of the course "Image Processing and Artificial Vision" from the Physics degree imparted at UB. In the "Code" directory, you will find both the code to demonstrate the flaws of the method, and the code to create an nth-order Shamir polynomial. In the "Papers" directory you will find both Shakar's paper and our analysis report. 
 
 ## About the project
 
