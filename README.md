@@ -8,7 +8,7 @@ Visual Cryptography (VC) is a security technique consisting of encoding an image
 
 In a "k out of n" (k,n) scheme, only k<n shares need to be known in order to recover the final image. This represents a big leap forward in VC, providing versatility and security in comparison to current methods. In this paper, we explore Shakar and Swaran's (k,n) technique, the structural and security flaws of which are discussed. In addition, a working solution using Shamir's polynomial is proposed, which would actually solve the (k,n) problem for VC.
 
-Example of 2 shares used to reconstruct a secret image:
+Example with 2 shares used to reconstruct a secret image:
 
 [![Visual criptography](https://www.101computing.net/wp/wp-content/uploads/visual-cryptography-of-space-invader.png "Visual criptography")](https://www.101computing.net/wp/wp-content/uploads/visual-cryptography-of-space-invader.png "Visual criptography")
 
